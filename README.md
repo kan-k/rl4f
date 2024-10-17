@@ -7,7 +7,7 @@
 This repository provides Python code and Jupyter Notebooks accompanying the
 _**Reinforcement Learning for Finance &mdash; A Python-Based Introduction**_ book published by [O'Reilly](https://learning.oreilly.com/library/view/financial-theory-with/9781098104344/).
 
-<img src="https://certificate.tpq.io/rl4finance_cover.png" width="500">
+<img src="https://certificate.tpq.io/rl4finance_full_cover.png" width="500">
 
 You can **register for free** on our [Quant Platform](https://rl4f.pqp.io) to make
 easy use of the Python code in the cloud. No local Python installation is required.
