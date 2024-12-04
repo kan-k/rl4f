@@ -12,6 +12,12 @@ _**Reinforcement Learning for Finance &mdash; A Python-Based Introduction**_ boo
 You can **register for free** on our [Quant Platform](https://rl4f.pqp.io) to make
 easy use of the Python code in the cloud. No local Python installation is required.
 
+## Python Environment
+
+The original code of the book has been developed using `TensorFlow` 2.10. You can use the YAML file in the repository (`rl4f_tf210.yaml`) to create a Python environment with `conda` as follows:
+
+    conda env create -n rl4f_tf210 -f rl4f_tf210.yaml
+
 ## Copyright & Disclaimer
 
 © Dr. Yves J. Hilpisch | The Python Quants GmbH | October 2024
